@@ -2,6 +2,7 @@
 - Ivan
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning Solidity etc.
+- Can do more
 
 <!---
 singhthagunnanaren/singhthagunnanaren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
